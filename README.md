@@ -50,8 +50,8 @@ $\frac{d^2\theta}{dT^2}=-\gamma\frac{d\theta}{dT}-b_1\sin\theta+b_2\cos\theta\co
 ### 兩種振盪態的動畫
 
 黑色箭頭為總磁場。
-紅色箭頭為動畫中的週期-$1^+$ 振盪。
-藍色箭頭為動畫中的週期-$1^-$ 振盪。
+紅色箭頭為動畫中的週期- $1^+$ 振盪。
+藍色箭頭為動畫中的週期- $1^-$ 振盪。
 
 <img src="./images/Btwo095.00(2period-1)/Eu_Btwo95.00IniTh.25_Video.gif" height="300"> 
 

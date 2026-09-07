@@ -82,8 +82,8 @@ Blue arrows is period- $1^-$ oscillation in animation.
 ### Animation of two oscillation states
 
 Black arrow is total magnetic field.  
-Red arrow is period- $3$ oscillation in animation.  
-Blue arrows is period- $5$ oscillation in animation.
+Red arrow is period-3 oscillation in animation.  
+Blue arrows is period-5 oscillation in animation.
 
 <img src="./images/Btwo103.20(period-3,5)/Eu_Btwo103.20IniTh.278_Video.gif" height="300"> 
 

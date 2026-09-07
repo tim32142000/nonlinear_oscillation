@@ -41,7 +41,7 @@ $\frac{d^2\theta}{dT^2}=-\gamma\frac{d\theta}{dT}-b_1\sin\theta+b_2\cos\theta\co
 
 ## $b_2=95.0$ （2種 週期-1）
 
-### $\theta$–$t$ 圖
+### $\theta-t$ 圖
 
 <img src="./images/Btwo095.00(2period-1)/ThTBtwo95.00.png" height="300">
 
@@ -73,7 +73,7 @@ $\frac{d^2\theta}{dT^2}=-\gamma\frac{d\theta}{dT}-b_1\sin\theta+b_2\cos\theta\co
 
 ## $b_2=103.2$ （週期-3, 5共存）
 
-### $\theta$–$t$ 圖
+### $\theta-t$ 圖
 
 <img src="./images/Btwo103.20(period-3,5)/ThTBtwo103.20_RK4_4.png" height="300">
 
@@ -82,8 +82,8 @@ $\frac{d^2\theta}{dT^2}=-\gamma\frac{d\theta}{dT}-b_1\sin\theta+b_2\cos\theta\co
 ### 兩種振盪態的動畫
 
 黑色箭頭為總磁場。
-紅色箭頭為週期-$3$ 振盪。
-藍色箭頭為週期-$5$ 振盪。
+紅色箭頭為週期-3 振盪。
+藍色箭頭為週期-5 振盪。
 
 <img src="./images/Btwo103.20(period-3,5)/Eu_Btwo103.20IniTh.278_Video.gif" height="300"> 
 
